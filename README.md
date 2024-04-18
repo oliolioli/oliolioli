@@ -9,7 +9,7 @@
 ↪ Fun fact: I have a masters degree in Philosophy and am in possession of a Long Range Certificate 📻 to participate in marine communications on sailing yachts. ⛵<br/>
 ↪ Ask me about anything. 💭
     </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliolioli&layout=compact&langs_count=8" alt="Language stats" height="110%" width="110%"></td>
+    <td padding="0"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliolioli&layout=compact&langs_count=8" alt="Language stats" height="110%" width="110%"></td>
   </tr>
 </table>
 
