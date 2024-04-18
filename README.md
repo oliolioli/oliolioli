@@ -8,11 +8,10 @@
 ↪ I’m currently learning to create 3D animations in Blender. 🎨<br/>
 ↪ Fun fact: I have a masters degree in Philosophy and am in possession of a Long Range Certificate 📻 to participate in marine communications on sailing yachts. ⛵<br/>
 ↪ Ask me about anything. 💭
-      &nbsp;
-      d
-      &nbsp;
-      w
-      &nbsp;
+      <p>d</p>
+      <p>d</p>
+            <p>d</p>
+            <p>d</p>
     </td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliolioli&layout=compact&langs_count=8" alt="Language stats" height="120%" width="150%"></td>
   </tr>
