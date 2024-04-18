@@ -17,4 +17,4 @@
   </tr>
 </table>
 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliolioli&layout=compact&langs_count=8" alt="Language stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliolioli&layout=compact&langs_count=8" alt="Language stats">
