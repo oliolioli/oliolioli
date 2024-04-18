@@ -13,9 +13,8 @@
             <p>d</p>
             <p>d</p>
     </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliolioli&layout=compact&langs_count=8" alt="Language stats" height="120%" width="150%"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliolioli&layout=compact&langs_count=8" alt="Language stats"></td>
   </tr>
 </table>
 
-
-
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliolioli&layout=compact&langs_count=8" alt="Language stats">
