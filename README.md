@@ -1,6 +1,6 @@
 ## Ahoy 👋
 
-<table padding="0">
+<table padding="0" border="0">
   <tr>
     <td>
 ↪ I'm studying Computer Science at the University of Fribourg. 💡 💻<br/>
