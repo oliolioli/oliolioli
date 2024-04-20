@@ -1,4 +1,4 @@
-## Ahoy world! 👋
+## 👋 Ahoy world!
 
 ↪ I'm working in IT since 2000 (Informatiker EFZ).<br/>
 ↪ At the moment I'm studying Computer Science at the University of Fribourg (~5th semester) to upgrade my hard skills. 💻</p>
