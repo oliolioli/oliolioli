@@ -1,9 +1,9 @@
 ## Ahoy 👋
 
 ↪ I'm working in IT since 2000 (Informatiker EFZ).<br/>
-↪ At the moment I'm studying Computer Science at the University of Fribourg (~5th semester) to update my hard skills. 💻</p>
-↪ I’m currently working on learning proper JavaScript (especially THREE.js and Node.js).<br/>
-↪ I’m currently learning to create 3D models in Blender. 🎨 </p>
+↪ At the moment I'm studying Computer Science at the University of Fribourg (~5th semester) to upgrade my hard skills. 💻</p>
+↪ I’m currently working on learning proper JavaScript.<br/>
+↪ I’m currently learning to create 3D models in Blender to use them with THREE.js 🎨 </p>
 ↪ Fun fact: I have a masters degree in Philosophy & a Long Range Certificate to participate in marine communications ⛵ <br/>
 ↪ Ask me about anything. 💭
 
