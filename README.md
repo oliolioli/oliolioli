@@ -1,5 +1,5 @@
 # Ahoy world! 👋
-### _I work in the healthcare sector with Ruby on Rails and .net._ </br>
+### _I work in the healthcare sector with .net and Ruby on Rails._ </br>
 
 Besides that, I enjoy creating 3D models in _Blender_ and integrating them with _three.js_: </br>
 ➔ [3D model of Bern](https://oliolioli.github.io).
